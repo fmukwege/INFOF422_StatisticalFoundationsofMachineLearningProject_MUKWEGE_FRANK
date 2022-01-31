@@ -9,8 +9,10 @@
 • To participate to the "Pump it Up: Data Mining the Water Table" DrivenData competition by imple-
 menting and assessing different supervised learning algorithms and different methods of feature se-
 lection in the related classification task.
+
 • to select among the learning and feature selection techniques the ones which appear to be the most
 accurate and use them for submitting to the DrivenData competition.
+
 • to report your analyses and results as a Jupyter notebook.
 
 DrivenData competition
