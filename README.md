@@ -2,8 +2,8 @@
 
 (Link to course URL : https://www.ulb.be/en/programme/info-f422)
 
-# Final grade of the project : 9/10. Final grade on the course : 14/20.
-
+## Final grade of the project : 9/10. Final grade on the course : 14/20.
+Classifier accuracy : 72.25%
 
 # The goals of the project are:
 • To participate to the "Pump it Up: Data Mining the Water Table" DrivenData competition by implementing 
